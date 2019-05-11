@@ -6,8 +6,6 @@ from constant import PROJECT_ID, TOPIC_NAME
 from events import Event
 
 
-
-
 class PublishResource:
 
     def __init__(self, publisher):
